@@ -1,4 +1,4 @@
-const express = require('express')
+/* const express = require('express')
 const app = express()
 const items = require('./items.json')
 
@@ -35,4 +35,17 @@ app.delete('/items/:id', (req,res) => {
 
 app.listen(8080, () => {
   console.log('Serveur à l\'écoute')
-})
+}) */
+
+
+const http = require("http");
+const app = require("./app");
+const server = http.createServer(app);
+
+const { API_PORT } = process.env;
+const port = process.env.PORT || API_PORT;
+
+// server listening 
+server.listen(port, () => {
+  console.log(`Server running on port ${port}`);
+});
