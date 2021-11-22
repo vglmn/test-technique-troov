@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"Samsung",
+        "type": "Smartphone",
+        "price": "270 euros"
+    },
+    {
+        "id": 2,
+        "name":"Asus",
+        "type": "Computer",
+        "price": "549 euros"
+    },
+    {
+        "id": 3,
+        "name":"Apple",
+        "type": "Smartphone",
+        "price": "899 euros"
+    },
+    {
+        "id": 4,
+        "name":"Roccat",
+        "type": "Mouse",
+        "price": "60 euros"
+    },
+    {
+        "id": 5,
+        "name": "AOC",
+        "type": "Screen",
+        "price": "270 euros"
+    }
+]

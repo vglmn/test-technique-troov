@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vglmn/test-technique-troov/issues"
   },
-  "homepage": "https://github.com/vglmn/test-technique-troov#readme"
+  "homepage": "https://github.com/vglmn/test-technique-troov#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
