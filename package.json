@@ -1,0 +1,19 @@
+{
+  "name": "test-technique-troov",
+  "version": "1.0.0",
+  "description": "api pour le test technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vglmn/test-technique-troov.git"
+  },
+  "author": "Giom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vglmn/test-technique-troov/issues"
+  },
+  "homepage": "https://github.com/vglmn/test-technique-troov#readme"
+}
